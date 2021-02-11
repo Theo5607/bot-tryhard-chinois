@@ -1,0 +1,15 @@
+{
+	"name": "greeter-bot",
+	"version": "1.0.0",
+	"description": "Go tryhard le chinois",
+	"main": "bot.js",
+	"author": "Theo5607",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"discord.js": "^12.5.1",
+		"google": "^2.1.0",
+		"google.js": "0.0.2",
+		"winston": "^3.3.3",
+		"xmlhttprequest": "^1.8.0"
+	}
+}
